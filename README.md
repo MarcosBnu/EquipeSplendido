@@ -25,3 +25,14 @@
       <td>João Pedro Oechsler</td>
   </tr>
 </table>
+
+<h2>🖥️ Tecnologias Utilizadas</h2>
+
+
++ <h4>📌 Git e Github
++ <h4>📌 Dart
++ <h4>📌 Flutter
++ <h4>📌 Intellij IDEA
++ <h4>📌 SQLite
++ <h4>📌 Photoshop
++ <h4>📌 Figma

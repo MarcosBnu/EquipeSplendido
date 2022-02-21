@@ -1,7 +1,7 @@
 <h2>🔥 DESAFIO – AP CODERS- Equipe Edifício Splendido</h2>
 <p>Repositório destinado para a ultima etapa do processo seletivo do programa da Ap Controle
 </p>
-<h2>Membros e Funções</h2>
+<h2>Funções e Membros</h2>
 
 <table border="1">
     <tr>

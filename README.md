@@ -1,5 +1,5 @@
 <h2>🔥 DESAFIO – AP CODERS- Equipe Edifício Splendido</h2>
-<p>Repositório destinado para a ultima etapa do processo seletivo do programa da Ap Controle
+<p>Repositório destinado para a ultima etapa do processo seletivo do programa da Ap Controle. Cada integrante do grupo ficou encarregado de uma função principal, podendo auxiliar outros integrantes que precisassem de ajuda. Caio Barp S. Favetti e Henrique da Silva Cardoso escreveram a documentação, João Pedro Oechsler modelou o banco de dados, Luis Gabriel Lima Cunha e Mariana Gonçalves Barretto fizeram o design das telas e Marcos Vinicius Borgert criou os diagramas.
 </p>
 <h2>Funções e Membros</h2>
 
